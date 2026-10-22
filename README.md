@@ -40,6 +40,9 @@ To simulate and analyze the torque-speed characteristics of Separately excited D
   ## Graph (Torque Speed Characteristics)
 
 
+  ## MATLAB Simulation Output
+
+
 
   ## Result
 
