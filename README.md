@@ -41,9 +41,15 @@ To simulate and analyze the torque-speed characteristics of Separately excited D
 <img width="472" height="286" alt="image" src="https://github.com/user-attachments/assets/9486ba53-81f3-4fec-830f-00fa7a90f507" />
 
 
-  ## MATLAB Simulation Output
+  ## MATLAB Simulink Diagram:
 <img width="1920" height="1200" alt="Screenshot 2026-10-22 143632" src="https://github.com/user-attachments/assets/abddc337-4a22-47ad-af27-ebfeded407bf" />
 <img width="1920" height="1200" alt="Screenshot 2026-10-22 144422" src="https://github.com/user-attachments/assets/29422d12-bbc2-46dd-8c59-24deb0bde1e6" />
 
+
+  ## MATLAB Simulation Output
+  ### Using Step:
+  <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f37c7e8f-6675-4baf-a9de-3432b35d4482" />
+
+
   ## Result
-Torque-Speed-characteristics-of-Separately-Excited-DC-Motor is achieved
+Thus torque-Speed-characteristics-of-Separately-Excited-DC-Motor is achieved and observed.
